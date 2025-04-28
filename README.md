@@ -11,7 +11,7 @@ The system allows users to **Register**, **Login**, **Manage Products**, **Manag
 - **MySQL Database Integration**: Real-time database interaction using JDBC for CRUD operations.
 
 ## 📸 Project Demo
-▶️ [Watch the Project Demo Video Here](https://youtu.be/your-video-link)  
+
 
 https://github.com/user-attachments/assets/6d51021f-be1a-459e-b6e7-fc5e32498646
 
